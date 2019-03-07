@@ -1,1 +1,1 @@
-MSG.catSpreadSheetPlus = "Google 試算表 Plus";
+MSG.catSpreadSheetPlus = "Google 試算表";
