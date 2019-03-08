@@ -58,7 +58,7 @@ Blockly.JavaScript['sheet_read_data'] = function (block) {
 };
 
 Blockly.JavaScript['sheet_read_data_all'] = function (block) {
-  let code = '_mySheet_.data';
+  let code = '_mySheet_.data.data';
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
