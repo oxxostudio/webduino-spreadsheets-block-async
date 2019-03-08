@@ -1,4 +1,4 @@
-<category id="catSpreadSheetPlus">
+<category id="catSpreadSheetPlus"  COLOUR="200">
   <block type="sheet_init">
     <value name="name">
       <block type="variables_get">
